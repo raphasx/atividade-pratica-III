@@ -1,5 +1,8 @@
 # atividade-pratica-III
 
+Aluno: Raphael Lopes Alves 
+Periodo: 1P
+
 Contém 5 páginas desenvolvidas com HTML e CSS utilizando Flexbox.
 
 Atividades
